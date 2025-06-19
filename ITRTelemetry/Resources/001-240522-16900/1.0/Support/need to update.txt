@@ -1,0 +1,15 @@
+Install-Package ExcelDataReader.DataSet -Version 3.6.0(install The Packages)
+1.Scheduled Assessment 
+2.AssessTemplateTable
+3.Add one column in questionbank_options table
+OptionId  int
+4.Scheduled Ass Status 
+5.Schedled Ass Ans details
+6.ScheduledMappesuser
+7.Tpauser
+8.tpaentity
+9.type ofuser
+10.tbluser
+scheduledExculededusers
+11.Add Column Name : Linking_Doc_names dataType : Varchar(450) in risk.add_doc table
+12.Taskmaster

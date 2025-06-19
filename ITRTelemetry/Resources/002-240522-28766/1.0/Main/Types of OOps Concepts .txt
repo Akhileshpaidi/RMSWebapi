@@ -1,0 +1,8 @@
+Types of OOps Concepts 
+1)Abstration---Data Abstration  is the property by virtue of which only essentail details to display for the user
+encapsulation--- it is used to wrapping of dat into single unit
+inheritance---it is the mechanism in java by which  ond class is allowed  to inhertance  the feature of another class
+ Ploymorphism-----
+object
+class
+

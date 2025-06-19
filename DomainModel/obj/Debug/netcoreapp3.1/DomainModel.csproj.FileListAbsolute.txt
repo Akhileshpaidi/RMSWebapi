@@ -1,0 +1,75 @@
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\Neemus\ITRNEW\Vishnu\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\Neemus\ITRNEW\16Feb2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\itr02-07-2021\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+D:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+E:\sharanya\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

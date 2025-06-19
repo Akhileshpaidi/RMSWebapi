@@ -1,0 +1,39 @@
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.deps.json
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.pdb
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.pdb
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.AssemblyReference.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfoInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfo.cs
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CoreCompileInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CopyComplete
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.deps.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.AssemblyReference.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfoInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfo.cs
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CoreCompileInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CopyComplete
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.deps.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\MySQLProvider.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\bin\Release\netcoreapp3.1\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.AssemblyReference.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfoInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.AssemblyInfo.cs
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CoreCompileInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.csproj.CopyComplete
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\MySQLProvider\obj\Release\netcoreapp3.1\MySQLProvider.pdb

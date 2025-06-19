@@ -1,0 +1,30 @@
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.deps.json
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.pdb
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.dll
+C:\gaurav\ITR_Telemetry\itrtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.deps.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.deps.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\bin\Release\netcoreapp3.1\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\DomainModel\obj\Release\netcoreapp3.1\DomainModel.pdb

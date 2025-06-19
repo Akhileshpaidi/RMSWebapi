@@ -1,0 +1,338 @@
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ITRTelemetry.exe
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\libman.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317package.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ITRTelemetry.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ITRTelemetry.deps.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ITRTelemetry.runtimeconfig.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ITRTelemetry.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Cryptography.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\DocumentFormat.OpenXml.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ExcelDataReader.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ExcelDataReader.DataSet.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Google.Protobuf.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Humanizer.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.barcodes.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.bouncy-castle-connector.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.forms.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.io.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.kernel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.layout.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.pdfa.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.sign.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.styledxmlparser.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.svg.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.bouncy-castle-adapter.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.commons.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\itext.html2pdf.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\K4os.Compression.LZ4.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\K4os.Hash.xxHash.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MessagePack.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MessagePack.Annotations.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.Build.Locator.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.Scripting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.DiaSymReader.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MySql.Data.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Ubiety.Dns.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ZstdNet.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MySql.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Configuration.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.DependencyResolver.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Frameworks.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.LibraryModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Packaging.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.ProjectModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Protocol.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\NuGet.Versioning.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\OpenXmlPowerTools.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Crypto.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Composition.AttributedModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Composition.Convention.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Composition.Hosting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Composition.Runtime.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Composition.TypedParts.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.IO.Packaging.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.IO.Pipelines.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\System.Windows.Extensions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\DomainModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MySQLProvider.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\DomainModel.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Release\net6.0\PubTmp\Out\MySQLProvider.pdb

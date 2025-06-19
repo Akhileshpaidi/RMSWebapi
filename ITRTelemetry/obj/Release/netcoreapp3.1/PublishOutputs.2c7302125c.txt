@@ -1,0 +1,194 @@
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ITRTelemetry.exe
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\libman.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317package.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ITRTelemetry.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ITRTelemetry.deps.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ITRTelemetry.runtimeconfig.json
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ITRTelemetry.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\BouncyCastle.Crypto.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Google.Protobuf.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\K4os.Compression.LZ4.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\K4os.Compression.LZ4.Streams.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\K4os.Hash.xxHash.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Http.Features.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.SignalR.Common.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Bcl.HashCode.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Razor.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Configuration.Binder.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\dotnet-aspnet-codegenerator-design.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\MySql.Data.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Ubiety.Dns.Core.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Zstandard.Net.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\MySql.Data.EntityFrameworkCore.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\MySqlConnector.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\NuGet.Frameworks.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Collections.Immutable.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.AttributedModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Convention.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Hosting.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.Runtime.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Composition.TypedParts.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.IO.Pipelines.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\DomainModel.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\MySQLProvider.dll
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\DomainModel.pdb
+E:\ITR_Telemetry_Windows\Newcode 9jan\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\netcoreapp3.1\PubTmp\Out\MySQLProvider.pdb

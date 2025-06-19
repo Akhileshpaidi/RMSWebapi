@@ -1,0 +1,1027 @@
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\appsettings.Development.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\appsettings.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\libman.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.exe
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.deps.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.runtimeconfig.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Google.Protobuf.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Humanizer.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySql.Data.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ZstdNet.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySqlConnector.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Common.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.AssemblyReference.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfoInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfo.cs
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CoreCompileInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.MvcApplicationPartsAssemblyInfo.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.build.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.development.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\scopedcss\bundle\ITRTelemetry.styles.css
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CopyComplete
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\refint\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.genruntimeconfig.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ref\ITRTelemetry.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\appsettings.Development.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\appsettings.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\libman.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317package.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.exe
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.deps.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.runtimeconfig.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.pdb
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Humanizer.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySql.Data.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ZstdNet.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySqlConnector.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Common.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.pdb
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.pdb
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.AssemblyReference.cache
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfoInputs.cache
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfo.cs
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CoreCompileInputs.cache
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.MvcApplicationPartsAssemblyInfo.cache
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.ITRTelemetry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.build.ITRTelemetry.props
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ITRTelemetry.props
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ITRTelemetry.props
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\scopedcss\bundle\ITRTelemetry.styles.css
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CopyComplete
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\refint\ITRTelemetry.dll
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.pdb
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.genruntimeconfig.cache
+C:\Risk_Management\ITRtelemetrty-socketapi\ITRTelemetry\obj\Debug\net6.0\ref\ITRTelemetry.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\appsettings.Development.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\appsettings.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\libman.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317package.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.exe
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.deps.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.runtimeconfig.json
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ITRTelemetry.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ExcelDataReader.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Humanizer.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.barcodes.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.bouncy-castle-connector.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.forms.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.io.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.kernel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.layout.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.pdfa.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.sign.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.styledxmlparser.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.svg.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.bouncy-castle-adapter.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.commons.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\itext.html2pdf.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MySql.Data.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ZstdNet.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MySqlConnector.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\OpenXmlPowerTools.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.dll
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\DomainModel.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\bin\Debug\net6.0\MySQLProvider.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.AssemblyReference.cache
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfoInputs.cache
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.AssemblyInfo.cs
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CoreCompileInputs.cache
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.MvcApplicationPartsAssemblyInfo.cache
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.ITRTelemetry.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.build.ITRTelemetry.props
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ITRTelemetry.props
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ITRTelemetry.props
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.build.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\staticwebassets.development.json
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\scopedcss\bundle\ITRTelemetry.styles.css
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.csproj.CopyComplete
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\refint\ITRTelemetry.dll
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.pdb
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ITRTelemetry.genruntimeconfig.cache
+D:\Risk\rmscoreapi\ITRTelemetry\obj\Debug\net6.0\ref\ITRTelemetry.dll

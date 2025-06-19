@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6zU6/bUxsGmFFKgwTo854nkUoaDH/MmtRySf3PPOUj8=",
+  "Source": "ITRTelemetry",
+  "BasePath": "_content/ITRTelemetry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

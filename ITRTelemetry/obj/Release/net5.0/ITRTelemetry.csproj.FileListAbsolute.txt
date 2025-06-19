@@ -1,0 +1,193 @@
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\appsettings.Development.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\appsettings.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\libman.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317.eslintrc.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317.monorepo.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\16730059713170.schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\16730059713171.schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayEmpty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317AddArrayPush.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317AddProject2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317AddProjectWithTargets.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317angular.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInner.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteInnerAdd.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLast.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteLastAdd.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayDeleteZero.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexInner.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexLast.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayIndexZero.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPop.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayPush.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayReplace2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayShift.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySort.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArraySplice2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayUnshift.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ArrayValues.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317builders-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317builders.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317collection-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317collection.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317Empty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317expected_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317Extensions2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317input-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317migration-collection.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317migrations.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ng-package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317noop-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemove.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectRemoveMultiple.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace1.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace2.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ObjectReplace3.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317operator-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317output-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317packages.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317progress-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectAddTarget.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectDeleteTarget.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectEmpty.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectFull.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectModifyProperties.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317ProjectSetProperties.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317project_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317renovate.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317Retain.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317root_package.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317schema_benchmark.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317targets-schema.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-build.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig-test.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.app.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.e2e.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.lib.prod.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.server.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Resources\Folders\angular installer1673005971317\1673005971317tsconfig.spec.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.exe
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.deps.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.runtimeconfig.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.runtimeconfig.dev.json
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ITRTelemetry.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\BouncyCastle.Crypto.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Google.Protobuf.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\K4os.Compression.LZ4.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\K4os.Hash.xxHash.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.AspNetCore.SignalR.Protocols.NewtonsoftJson.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.Bcl.HashCode.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\MySql.Data.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Ubiety.Dns.Core.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Zstandard.Net.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\MySqlConnector.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\NuGet.Frameworks.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Composition.Convention.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\DomainModel.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\MySQLProvider.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\DomainModel.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\bin\Release\net5.0\MySQLProvider.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.csproj.AssemblyReference.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.AssemblyInfoInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.AssemblyInfo.cs
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.csproj.CoreCompileInputs.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.MvcApplicationPartsAssemblyInfo.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\scopedcss\bundle\ITRTelemetry.styles.css
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\staticwebassets\ITRTelemetry.StaticWebAssets.Manifest.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.RazorTargetAssemblyInfo.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.csproj.CopyComplete
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\refint\ITRTelemetry.dll
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.pdb
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ITRTelemetry.genruntimeconfig.cache
+C:\HOSTED\ITR\ITRtelemetrty-socketapi\ITRTelemetry\obj\Release\net5.0\ref\ITRTelemetry.dll
