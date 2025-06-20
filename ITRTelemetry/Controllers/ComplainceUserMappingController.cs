@@ -136,6 +136,7 @@ namespace ITRTelemetry.Controllers
                                  join compliancenotified in mySqlDBContext.ComplianceNotifiedStatusModels on companycompliance.compliance_notified_status_id equals compliancenotified.compliance_notified_id
                                  join compliancefreq in mySqlDBContext.Frequencymodels on companycompliance.frequency_period_id equals compliancefreq.frequencyid
                                  join classificationrisk in mySqlDBContext.ComplianceRiskClassificationCriteriaModels on companycompliance.risk_classification_criteria_id equals classificationrisk.compliance_risk_criteria_id
+                                 where companycompliance.status == "Active" && complaince_location.status == "Mapped"
                                  orderby companycompliance.create_company_compliance_id ascending
                                  select new
                                  {
@@ -166,6 +167,7 @@ namespace ITRTelemetry.Controllers
                                      entitymaster.Entity_Master_Name,
                                      unitlocation.Unit_location_Master_name,
                                      complaince_location.companycompliancemappingid,
+                                     complaince_location.locationdepartmentmappingid,
                                      compliancefreq.frequencyperiod
                                  };
 
@@ -271,61 +273,159 @@ namespace ITRTelemetry.Controllers
 
         {
 
-            MySqlConnection con = new MySqlConnection(Configuration["ConnectionStrings:myDb1"]);
-            con.Open();
+            //            MySqlConnection con = new MySqlConnection(Configuration["ConnectionStrings:myDb1"]);
+            //            con.Open();
 
-            MySqlCommand cmd = new MySqlCommand(@"select ROLE_ID from tblrole where ROLE_NAME =@ROLE_NAME;", con);
+            //            MySqlCommand cmd = new MySqlCommand(@"select ROLE_ID from tblrole where ROLE_NAME =@ROLE_NAME;", con);
 
-            cmd.CommandType = CommandType.Text;
+            //            cmd.CommandType = CommandType.Text;
 
-            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
-            cmd.Parameters.AddWithValue("@ROLE_NAME", rolename);
+            //            MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+            //            cmd.Parameters.AddWithValue("@ROLE_NAME", rolename);
 
-            DataTable dt = new DataTable();
-            da.Fill(dt);
-            con.Close();
+            //            DataTable dt = new DataTable();
+            //            da.Fill(dt);
+            //            con.Close();
+            //            var pdata = new List<GetUserModel>();
+            //            if (dt.Rows.Count > 0)
+            //            {
+
+            //                int ROLE_ID = Convert.ToInt32(dt.Rows[0]["ROLE_ID"].ToString());
+            //                //converting locationids to in query ids(ex:1,2,3 to '1','2','3')
+            //                string[] locationdepartmentmapid = locationdepartmentmappingids.Split(',');
+            //                string[] a= locationdepartmentmapid.Select(value => $"'{value}'").ToArray();
+            //                string locationdepartmentmappingid = string.Join(",", a);
+            //                //converting complainceids to in query ids(ex:1,2,3 to '1','2','3')
+            //                string[] companycomplceid = companycomplianceids.Split(',');
+            //                string[] b = companycomplceid.Select(value => $"'{value}'").ToArray();
+            //                string companycomplianceid = string.Join(",", b);
+            //                MySqlCommand cmd1 = new MySqlCommand(@"select distinct USR_ID,firstname from user_workgroup_mapping uwg
+            //join activityworkgroup awg on awg.activity_Workgroup_id=uwg.activityworkgroup_id
+            //join compliance_location_mapping clm on clm.locationdepartmentmappingid=awg.locationdepartmentmappingid
+            //join  tbluser on tbluser.USR_ID =uwg.userid
+            //join tblrole on tblrole.ROLE_ID=awg.roles
+            //where  locationdepartmentmappingid IN (" + locationdepartmentmappingid + ")  and companycomplianceid in (" + companycomplianceid + ") and awg.roles=@ROLE_ID and USR_ID not in(" + userid + ") order by tbluser.USR_ID ", con);
+
+            //                cmd1.CommandType = CommandType.Text;
+
+            //                MySqlDataAdapter da1 = new MySqlDataAdapter(cmd1);
+            //                cmd1.Parameters.AddWithValue("@ROLE_ID", ROLE_ID);
+
+            //                DataTable dt1 = new DataTable();
+            //                da1.Fill(dt1);
+            //                con.Close();
+            //                if (dt1.Rows.Count > 0)
+            //                {
+            //                    for (int i = 0; i < dt1.Rows.Count; i++)
+            //                    {
+            //                        pdata.Add(new GetUserModel
+            //                        {
+            //                            firstname = dt1.Rows[i]["firstname"].ToString(),
+
+            //                            USR_ID = Convert.ToInt32(dt1.Rows[i]["USR_ID"]),
+
+            //                        });
+            //                    }
+            //                }
+            //            }
+            //            return pdata;
             var pdata = new List<GetUserModel>();
-            if (dt.Rows.Count > 0)
+
+            try
             {
-
-                int ROLE_ID = Convert.ToInt32(dt.Rows[0]["ROLE_ID"].ToString());
-                //converting locationids to in query ids(ex:1,2,3 to '1','2','3')
-                string[] locationdepartmentmapid = locationdepartmentmappingids.Split(',');
-                string[] a= locationdepartmentmapid.Select(value => $"'{value}'").ToArray();
-                string locationdepartmentmappingid = string.Join(",", a);
-                //converting complainceids to in query ids(ex:1,2,3 to '1','2','3')
-                string[] companycomplceid = companycomplianceids.Split(',');
-                string[] b = companycomplceid.Select(value => $"'{value}'").ToArray();
-                string companycomplianceid = string.Join(",", b);
-                MySqlCommand cmd1 = new MySqlCommand(@"select distinct USR_ID,firstname from user_workgroup_mapping uwg
-join activityworkgroup awg on awg.activity_Workgroup_id=uwg.activityworkgroup_id
-join compliance_location_mapping clm on clm.locationdepartmentmappingid=awg.locationdepartmentmappingid
-join  tbluser on tbluser.USR_ID =uwg.userid
-join tblrole on tblrole.ROLE_ID=awg.roles
-where  compliance_location_Mapping_id IN (" + locationdepartmentmappingid + ")  and companycomplianceid in (" + companycomplianceid + ") and awg.roles=@ROLE_ID and USR_ID not in(" + userid + ") order by tbluser.USR_ID ", con);
-
-                cmd1.CommandType = CommandType.Text;
-
-                MySqlDataAdapter da1 = new MySqlDataAdapter(cmd1);
-                cmd1.Parameters.AddWithValue("@ROLE_ID", ROLE_ID);
-
-                DataTable dt1 = new DataTable();
-                da1.Fill(dt1);
-                con.Close();
-                if (dt1.Rows.Count > 0)
+                using (MySqlConnection con = new MySqlConnection(Configuration["ConnectionStrings:myDb1"]))
                 {
-                    for (int i = 0; i < dt1.Rows.Count; i++)
+                    con.Open();
+
+                    // Step 1: Get ROLE_ID from role name
+                    MySqlCommand cmd = new MySqlCommand(@"SELECT ROLE_ID FROM tblrole WHERE ROLE_NAME = @ROLE_NAME;", con);
+                    cmd.CommandType = CommandType.Text;
+                    cmd.Parameters.AddWithValue("@ROLE_NAME", rolename);
+
+                    DataTable dt = new DataTable();
+                    using (MySqlDataAdapter da = new MySqlDataAdapter(cmd))
                     {
-                        pdata.Add(new GetUserModel
+                        da.Fill(dt);
+                    }
+
+                    if (dt.Rows.Count == 0)
+                    {
+                        Console.WriteLine("No ROLE_ID found for rolename: " + rolename);
+                        return pdata;
+                    }
+
+                    int ROLE_ID = Convert.ToInt32(dt.Rows[0]["ROLE_ID"]);
+
+                    // Step 2: Format locationdepartmentmappingids
+                    string[] locIdsRaw = locationdepartmentmappingids.Split(',', StringSplitOptions.RemoveEmptyEntries);
+                    string[] locIds = locIdsRaw.Select(id => $"'{MySqlHelper.EscapeString(id.Trim())}'").ToArray();
+                    string locationIdsStr = string.Join(",", locIds);
+
+                    // Step 3: Format companycomplianceids
+                    string[] compIdsRaw = companycomplianceids.Split(',', StringSplitOptions.RemoveEmptyEntries);
+                    string[] compIds = compIdsRaw.Select(id => $"'{MySqlHelper.EscapeString(id.Trim())}'").ToArray();
+                    string complianceIdsStr = string.Join(",", compIds);
+
+                    // Step 4: Format user exclusion
+                    string userCondition = "";
+                    if (!string.IsNullOrWhiteSpace(userid))
+                    {
+                        string[] userIds = userid.Split(',', StringSplitOptions.RemoveEmptyEntries);
+                        string[] safeUserIds = userIds.Select(id => $"'{MySqlHelper.EscapeString(id.Trim())}'").ToArray();
+                        userCondition = $"AND USR_ID NOT IN ({string.Join(",", safeUserIds)})";
+                    }
+
+                    // Step 5: Final Query
+                    string finalQuery = $@"
+                SELECT DISTINCT USR_ID, firstname
+                FROM user_workgroup_mapping uwg
+                JOIN activityworkgroup awg ON awg.activity_Workgroup_id = uwg.activityworkgroup_id
+                JOIN compliance_location_mapping clm ON clm.locationdepartmentmappingid = awg.locationdepartmentmappingid
+                JOIN tbluser ON tbluser.USR_ID = uwg.userid
+                JOIN tblrole ON tblrole.ROLE_ID = awg.roles
+                WHERE clm.locationdepartmentmappingid IN ({locationIdsStr})
+                  AND companycomplianceid IN ({complianceIdsStr})
+                  AND awg.roles = @ROLE_ID
+                  {userCondition}
+                ORDER BY tbluser.USR_ID";
+
+                    Console.WriteLine("Executing SQL Query:");
+                    Console.WriteLine(finalQuery);
+                    Console.WriteLine("With ROLE_ID: " + ROLE_ID);
+
+                    // Step 6: Execute final query
+                    using (MySqlCommand cmd1 = new MySqlCommand(finalQuery, con))
+                    {
+                        cmd1.CommandType = CommandType.Text;
+                        cmd1.Parameters.AddWithValue("@ROLE_ID", ROLE_ID);
+
+                        using (MySqlDataAdapter da1 = new MySqlDataAdapter(cmd1))
                         {
-                            firstname = dt1.Rows[i]["firstname"].ToString(),
-                      
-                            USR_ID = Convert.ToInt32(dt1.Rows[i]["USR_ID"]),
-                         
-                        });
+                            DataTable dt1 = new DataTable();
+                            da1.Fill(dt1);
+
+                            Console.WriteLine("Rows fetched: " + dt1.Rows.Count);
+
+                            if (dt1.Rows.Count > 0)
+                            {
+                                for (int i = 0; i < dt1.Rows.Count; i++)
+                                {
+                                    pdata.Add(new GetUserModel
+                                    {
+                                        firstname = dt1.Rows[i]["firstname"].ToString(),
+                                        USR_ID = Convert.ToInt32(dt1.Rows[i]["USR_ID"])
+                                    });
+                                }
+                            }
+                        }
                     }
                 }
             }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error in GetcomplainceUsers API: " + ex.Message);
+            }
+
             return pdata;
         }
 
@@ -792,6 +892,104 @@ where compliance_location_Mapping_id IN (" + locationdepartmentmappingid + ") an
 
 
 
+        [Route("api/ComplainceUserMappingController/GetcomplainceendUsers")]
+        [HttpGet]
+
+        public IEnumerable<GetUserModel> GetcomplainceendUsers(string rolename, string locationdepartmentmappingids, string companycomplianceids)
+
+        {
+
+            var pdata = new List<GetUserModel>();
+
+            try
+            {
+                using (MySqlConnection con = new MySqlConnection(Configuration["ConnectionStrings:myDb1"]))
+                {
+                    con.Open();
+
+                    // Step 1: Get ROLE_ID from role name
+                    MySqlCommand cmd = new MySqlCommand(@"SELECT ROLE_ID FROM tblrole WHERE ROLE_NAME = @ROLE_NAME;", con);
+                    cmd.CommandType = CommandType.Text;
+                    cmd.Parameters.AddWithValue("@ROLE_NAME", rolename);
+
+                    DataTable dt = new DataTable();
+                    using (MySqlDataAdapter da = new MySqlDataAdapter(cmd))
+                    {
+                        da.Fill(dt);
+                    }
+
+                    if (dt.Rows.Count == 0)
+                    {
+                        Console.WriteLine("No ROLE_ID found for rolename: " + rolename);
+                        return pdata;
+                    }
+
+                    int ROLE_ID = Convert.ToInt32(dt.Rows[0]["ROLE_ID"]);
+
+                    // Step 2: Format locationdepartmentmappingids
+                    string[] locIdsRaw = locationdepartmentmappingids.Split(',', StringSplitOptions.RemoveEmptyEntries);
+                    string[] locIds = locIdsRaw.Select(id => $"'{MySqlHelper.EscapeString(id.Trim())}'").ToArray();
+                    string locationIdsStr = string.Join(",", locIds);
+
+                    // Step 3: Format companycomplianceids
+                    string[] compIdsRaw = companycomplianceids.Split(',', StringSplitOptions.RemoveEmptyEntries);
+                    string[] compIds = compIdsRaw.Select(id => $"'{MySqlHelper.EscapeString(id.Trim())}'").ToArray();
+                    string complianceIdsStr = string.Join(",", compIds);
+
+           
+                    // Step 5: Final Query
+                    string finalQuery = $@"
+                SELECT DISTINCT USR_ID, firstname
+                FROM user_workgroup_mapping uwg
+                JOIN activityworkgroup awg ON awg.activity_Workgroup_id = uwg.activityworkgroup_id
+                JOIN compliance_location_mapping clm ON clm.locationdepartmentmappingid = awg.locationdepartmentmappingid
+                JOIN tbluser ON tbluser.USR_ID = uwg.userid
+                JOIN tblrole ON tblrole.ROLE_ID = awg.roles
+                WHERE clm.locationdepartmentmappingid IN ({locationIdsStr})
+                  AND companycomplianceid IN ({complianceIdsStr})
+                  AND awg.roles = @ROLE_ID
+                
+                ORDER BY tbluser.USR_ID";
+
+                    Console.WriteLine("Executing SQL Query:");
+                    Console.WriteLine(finalQuery);
+                    Console.WriteLine("With ROLE_ID: " + ROLE_ID);
+
+                    // Step 6: Execute final query
+                    using (MySqlCommand cmd1 = new MySqlCommand(finalQuery, con))
+                    {
+                        cmd1.CommandType = CommandType.Text;
+                        cmd1.Parameters.AddWithValue("@ROLE_ID", ROLE_ID);
+
+                        using (MySqlDataAdapter da1 = new MySqlDataAdapter(cmd1))
+                        {
+                            DataTable dt1 = new DataTable();
+                            da1.Fill(dt1);
+
+                            Console.WriteLine("Rows fetched: " + dt1.Rows.Count);
+
+                            if (dt1.Rows.Count > 0)
+                            {
+                                for (int i = 0; i < dt1.Rows.Count; i++)
+                                {
+                                    pdata.Add(new GetUserModel
+                                    {
+                                        firstname = dt1.Rows[i]["firstname"].ToString(),
+                                        USR_ID = Convert.ToInt32(dt1.Rows[i]["USR_ID"])
+                                    });
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error in GetcomplainceUsers API: " + ex.Message);
+            }
+
+            return pdata;
+        }
 
     }
 
