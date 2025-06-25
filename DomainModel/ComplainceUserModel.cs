@@ -164,11 +164,11 @@ namespace DomainModel
         public string remedial_days { get; set; }
 
         public string compliance_stage_progress { get; set; }
-        public DateTime due_date { get; set; }
+        public DateTime? due_date { get; set; }
         
 
-        public DateTime Effective_StartDate { get; set; }
-        public DateTime Effective_EndDate { get; set; }
+        public DateTime? Effective_StartDate { get; set; }
+        public DateTime? Effective_EndDate { get; set; }
         public DateTime? approved_remedial_comply_date { get; set; }
         public DateTime? proposed_remedial_comply_date { get; set; }
         public DateTime? rpa_request_date { get; set; }

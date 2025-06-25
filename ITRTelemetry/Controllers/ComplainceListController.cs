@@ -73,9 +73,7 @@ JOIN complaince_user_mapping
 JOIN create_company_compliance 
     ON FIND_IN_SET(create_company_compliance.create_company_compliance_id, complaince_user_mapping.company_compliance_ids)
 join compliance_location_mapping on compliance_location_mapping.companycomplianceid=create_company_compliance.create_company_compliance_id
-join `department-locationmapping` on `department-locationmapping`.locationdepartmentmappingid=compliance_location_mapping.locationdepartmentmappingid
-join entity_master on entity_master.Entity_Master_id=`department-locationmapping`.entityid
-join unit_location_master on unit_location_master.Unit_location_Master_id=`department-locationmapping`.unitlocationid
+
 join act_regulatorymaster on act_regulatorymaster.actregulatoryid=create_company_compliance.act_id
 join act_rule_regulatory on act_rule_regulatory.act_rule_regulatory_id=create_company_compliance.rule_id
 join compliance_type on compliance_type.compliance_type_id=create_company_compliance.compliance_type_id
@@ -85,6 +83,9 @@ join batch_compliance on batch_compliance.create_company_compliance_id=create_co
 join generate_current_batch_compliance on batch_compliance.generate_current_batch_compliance_id = generate_current_batch_compliance.id  and 
 generate_current_batch_compliance.updateUser=complaince_user_activity_mapping.UpdateActivity
 left join remediation_plan on remediation_plan.compliance_id=batch_compliance.compliance_id 
+join `department-locationmapping` on `department-locationmapping`.locationdepartmentmappingid=generate_current_batch_compliance.locationdepartmentmappingid
+join entity_master on entity_master.Entity_Master_id=`department-locationmapping`.entityid
+join unit_location_master on unit_location_master.Unit_location_Master_id=`department-locationmapping`.unitlocationid
 where UpdateActivity=@userid and batch_compliance.status = 'Active'  AND (
         -- Fetch past compliances
         compliance_due_date_created < CURDATE()
@@ -210,9 +211,7 @@ JOIN complaince_user_mapping
 JOIN create_company_compliance 
     ON FIND_IN_SET(create_company_compliance.create_company_compliance_id, complaince_user_mapping.company_compliance_ids)
 join compliance_location_mapping on compliance_location_mapping.companycomplianceid=create_company_compliance.create_company_compliance_id
-join `department-locationmapping` on `department-locationmapping`.locationdepartmentmappingid=compliance_location_mapping.locationdepartmentmappingid
-join entity_master on entity_master.Entity_Master_id=`department-locationmapping`.entityid
-join unit_location_master on unit_location_master.Unit_location_Master_id=`department-locationmapping`.unitlocationid
+
 join act_regulatorymaster on act_regulatorymaster.actregulatoryid=create_company_compliance.act_id
 join act_rule_regulatory on act_rule_regulatory.act_rule_regulatory_id=create_company_compliance.rule_id
 join compliance_type on compliance_type.compliance_type_id=create_company_compliance.compliance_type_id
@@ -222,6 +221,9 @@ join batch_compliance on batch_compliance.create_company_compliance_id=create_co
 join generate_current_batch_compliance on batch_compliance.generate_current_batch_compliance_id = generate_current_batch_compliance.id  and 
 generate_current_batch_compliance.remediationUser=complaince_user_activity_mapping.RemediationActivity
 join remediation_plan on remediation_plan.compliance_id=batch_compliance.compliance_id 
+join `department-locationmapping` on `department-locationmapping`.locationdepartmentmappingid=generate_current_batch_compliance.locationdepartmentmappingid
+join entity_master on entity_master.Entity_Master_id=`department-locationmapping`.entityid
+join unit_location_master on unit_location_master.Unit_location_Master_id=`department-locationmapping`.unitlocationid
 where RemediationActivity=@userid and batch_compliance.status = 'Active' and( compliance_stage_progress ='Extension Applied' or compliance_stage_progress= 'Remediation Applied' ) 
 order by create_company_compliance.create_company_compliance_id
 
@@ -273,16 +275,14 @@ order by create_company_compliance.create_company_compliance_id
                         riskClassification = dt.Rows[i]["compliance_risk_criteria_name"].ToString(),
                         days_status = dt.Rows[i]["days_status"].ToString(),
                         compliance_stage_progress = dt.Rows[i]["compliance_stage_progress"].ToString(),
-                        entityid = Convert.ToInt32(dt.Rows[i]["entityid"]),
-                        unitlocationid = Convert.ToInt32(dt.Rows[i]["unitlocationid"]),
-                        //Department_Master_name = dt.Rows[i]["Department_Master_name"].ToString(),
-                        //departmentid = Convert.ToInt32(dt.Rows[i]["departmentid"]),
-                        No_of_Attachements = Convert.ToInt32(dt.Rows[i]["No_of_Attachements"]),
-                        remediation_plan_id = Convert.ToInt32(dt.Rows[i]["remediation_plan_id"]),
-                        location_department_mapping_id = Convert.ToInt32(dt.Rows[i]["location_department_mapping_id"]),
-                        due_date = Convert.ToDateTime(dt.Rows[i]["compliance_due_date_created"]),
-                        Effective_StartDate = Convert.ToDateTime(dt.Rows[i]["Effective_StartDate"]),
-                        Effective_EndDate = Convert.ToDateTime(dt.Rows[i]["Effective_EndDate"]),
+                        unitlocationid = dt.Rows[i]["unitlocationid"] == DBNull.Value ? 0 : Convert.ToInt32(dt.Rows[i]["unitlocationid"]),
+                        No_of_Attachements = dt.Rows[i]["No_of_Attachements"] == DBNull.Value ? 0 : Convert.ToInt32(dt.Rows[i]["No_of_Attachements"]),
+                        remediation_plan_id = dt.Rows[i]["remediation_plan_id"] == DBNull.Value ? 0 : Convert.ToInt32(dt.Rows[i]["remediation_plan_id"]),
+                        location_department_mapping_id = dt.Rows[i]["location_department_mapping_id"] == DBNull.Value ? 0 : Convert.ToInt32(dt.Rows[i]["location_department_mapping_id"]),
+                        due_date = dt.Rows[i]["compliance_due_date_created"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(dt.Rows[i]["compliance_due_date_created"]),
+                        Effective_StartDate = dt.Rows[i]["Effective_StartDate"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(dt.Rows[i]["Effective_StartDate"]),
+                        Effective_EndDate = dt.Rows[i]["Effective_EndDate"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(dt.Rows[i]["Effective_EndDate"]),
+
                         proposed_remedial_comply_date = dt.Rows[i]["proposed_remedial_comply_date"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(dt.Rows[i]["proposed_remedial_comply_date"]),
                         rpa_request_date = dt.Rows[i]["rpa_request_date"] == DBNull.Value ? (DateTime?)null : Convert.ToDateTime(dt.Rows[i]["rpa_request_date"]),
                         remediation_request_remarks = dt.Rows[i]["remediation_request_remarks"].ToString(),
